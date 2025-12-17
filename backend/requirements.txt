@@ -1,0 +1,7 @@
+flask
+google-cloud-bigtable
+google-cloud-spanner
+redis
+firebase-admin
+gunicorn
+flask-cors
